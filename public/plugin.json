@@ -1,0 +1,23 @@
+{
+  "main": "index.html",
+  "logo": "icon.png",
+  "platform": [
+    "win32",
+    "darwin",
+    "linux"
+  ],
+  "development": {
+    "main": "http://localhost:3000/",
+    "preload": "preload.js"
+  },
+  "features": [
+    {
+      "code": "main",
+      "explain": "search emoij",
+      "cmds": [
+        "emoij",
+        "unicodeEmoij"
+      ]
+    }
+  ]
+}
