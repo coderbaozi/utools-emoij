@@ -12,6 +12,10 @@ describe('RE', () => {
           "FE0F",
         ],
         [
+          "1F54A",
+          "FE0F",
+        ],
+        [
           "1F985",
         ],
         [
@@ -31,6 +35,7 @@ describe('RE', () => {
     expect(matchs).toMatchInlineSnapshot(`
       [
         "dove",
+        "dove",
         "eagle",
         "couple with heart",
       ]
@@ -41,20 +46,30 @@ describe('RE', () => {
     expect(emoijs).toMatchInlineSnapshot(`
       Map {
         "dove" => [
-          "1F54A",
-          "FE0F",
+          [
+            "1F54A",
+            "FE0F",
+          ],
+          [
+            "1F54A",
+            "FE0F",
+          ],
         ],
         "eagle" => [
-          "1F985",
+          [
+            "1F985",
+          ],
         ],
         "couple with heart" => [
-          "1F469",
-          "1F3FC",
-          "200D",
-          "2764",
-          "200D",
-          "1F469",
-          "1F3FE",
+          [
+            "1F469",
+            "1F3FC",
+            "200D",
+            "2764",
+            "200D",
+            "1F469",
+            "1F3FE",
+          ],
         ],
       }
     `)
