@@ -1,0 +1,229 @@
+{
+  "grinning face": [
+    [
+      "0x1F600"
+    ]
+  ],
+  "grinning face with big eyes": [
+    [
+      "0x1F603"
+    ]
+  ],
+  "grinning face with smiling eyes": [
+    [
+      "0x1F604"
+    ]
+  ],
+  "beaming face with smiling eyes": [
+    [
+      "0x1F601"
+    ]
+  ],
+  "grinning squinting face": [
+    [
+      "0x1F606"
+    ]
+  ],
+  "grinning face with sweat": [
+    [
+      "0x1F605"
+    ]
+  ],
+  "rolling on the floor laughing": [
+    [
+      "0x1F923"
+    ]
+  ],
+  "face with tears of joy": [
+    [
+      "0x1F602"
+    ]
+  ],
+  "slightly smiling face": [
+    [
+      "0x1F642"
+    ]
+  ],
+  "upside-down face": [
+    [
+      "0x1F643"
+    ]
+  ],
+  "melting face": [
+    [
+      "0x1FAE0"
+    ]
+  ],
+  "winking face": [
+    [
+      "0x1F609"
+    ]
+  ],
+  "smiling face with smiling eyes": [
+    [
+      "0x1F60A"
+    ]
+  ],
+  "smiling face with halo": [
+    [
+      "0x1F607"
+    ]
+  ],
+  "smiling face with hearts": [
+    [
+      "0x1F970"
+    ]
+  ],
+  "smiling face with heart-eyes": [
+    [
+      "0x1F60D"
+    ]
+  ],
+  "star-struck": [
+    [
+      "0x1F929"
+    ]
+  ],
+  "face blowing a kiss": [
+    [
+      "0x1F618"
+    ]
+  ],
+  "kissing face": [
+    [
+      "0x1F617"
+    ]
+  ],
+  "smiling face": [
+    [
+      "0x263A",
+      "0xFE0F"
+    ],
+    [
+      "0x263A"
+    ]
+  ],
+  "kissing face with closed eyes": [
+    [
+      "0x1F61A"
+    ]
+  ],
+  "kissing face with smiling eyes": [
+    [
+      "0x1F619"
+    ]
+  ],
+  "smiling face with tear": [
+    [
+      "0x1F972"
+    ]
+  ],
+  "face savoring food": [
+    [
+      "0x1F60B"
+    ]
+  ],
+  "face with tongue": [
+    [
+      "0x1F61B"
+    ]
+  ],
+  "winking face with tongue": [
+    [
+      "0x1F61C"
+    ]
+  ],
+  "zany face": [
+    [
+      "0x1F92A"
+    ]
+  ],
+  "squinting face with tongue": [
+    [
+      "0x1F61D"
+    ]
+  ],
+  "money-mouth face": [
+    [
+      "0x1F911"
+    ]
+  ],
+  "smiling face with open hands": [
+    [
+      "0x1F917"
+    ]
+  ],
+  "face with hand over mouth": [
+    [
+      "0x1F92D"
+    ]
+  ],
+  "face with open eyes and hand over mouth": [
+    [
+      "0x1FAE2"
+    ]
+  ],
+  "face with peeking eye": [
+    [
+      "0x1FAE3"
+    ]
+  ],
+  "shushing face": [
+    [
+      "0x1F92B"
+    ]
+  ],
+  "thinking face": [
+    [
+      "0x1F914"
+    ]
+  ],
+  "saluting face": [
+    [
+      "0x1FAE1"
+    ]
+  ],
+  "zipper-mouth face": [
+    [
+      "0x1F910"
+    ]
+  ],
+  "face with raised eyebrow": [
+    [
+      "0x1F928"
+    ]
+  ],
+  "neutral face": [
+    [
+      "0x1F610"
+    ]
+  ],
+  "expressionless face": [
+    [
+      "0x1F611"
+    ]
+  ],
+  "face without mouth": [
+    [
+      "0x1F636"
+    ]
+  ],
+  "dotted line face": [
+    [
+      "0x1FAE5"
+    ]
+  ],
+  "face in clouds": [
+    [
+      "0x1F636",
+      "0x200D",
+      "0x1F32B",
+      "0xFE0F"
+    ],
+    [
+      "0x1F636",
+      "0x200D",
+      "0x1F32B"
+    ]
+  ]
+}

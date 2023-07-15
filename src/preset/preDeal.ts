@@ -39,7 +39,7 @@ export function dealCodePoint(resource: string) {
   const matchs = Array.from(resource.matchAll(RE))
   const enhanceMatchs = []
   for (const match of matchs)
-    enhanceMatchs.push(match[0].split(' '))
+    enhanceMatchs.push(match[0].split(' ').map(i => `0x${i}`))
   return enhanceMatchs
 }
 

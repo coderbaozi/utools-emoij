@@ -1,6 +1,7 @@
 # TODO
 
-- [ ]  data preDeal
+- [x]  data preDeal
+
 original data
 
 ```txt
@@ -21,3 +22,5 @@ description Format
 
 - sentence
 - sentence..sentence
+
+- [] data struct
