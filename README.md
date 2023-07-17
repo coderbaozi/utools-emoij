@@ -23,4 +23,5 @@ description Format
 - sentence
 - sentence..sentence
 
-- [] data struct
+- [x] data struct
+- [] : ts-type
