@@ -23,13 +23,13 @@ const EmoijList: React.FC<IProps> = ({ emoijs, searchRes }) => {
         flag
           ? <div className='flex flex-row flex-wrap gap-2'>{
             Object.keys(emoijs).map((key, index) =>
-              <div className=' w-1/10 justify-center items-center py-3' title={key} key={index}>
+              <div className=' w-1/10 justify-center cursor-pointer items-center py-3' title={key} key={index}>
                 {emoijs[key].map((i, index) => <Emoij key={index} emoij={i}></Emoij>)}
               </div>,
             )}
           </div>
-          : <div className='flex flex-row flex-wrap gap-2'>
-            {Object.keys(searchRes).map(key => <div key={searchRes[key].id}>{searchRes[key].code.map((i, index) => <Emoij key={index} emoij={i}></Emoij>)}</div>)}
+          : <div className='flex flex-row flex-wrap cursor-pointer gap-2'>
+            {Object.keys(searchRes).map(key => <div title={searchRes[key].desc} key={searchRes[key].id}>{searchRes[key].code.map((i, index) => <Emoij key={index} emoij={i}></Emoij>)}</div>)}
           </div>
       }
 
