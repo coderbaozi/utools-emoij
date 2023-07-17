@@ -8,7 +8,7 @@ export function useSearch() {
     return fzf.find(content)
   }
   // TODO: add type
-  const getEmoijs = async (keys) => {
+  const getEmoijs = async (keys: any) => {
     const res: Record<string, any> = {}
     for (const key of keys)
       res[key.item] = await findEmoij(key.item)

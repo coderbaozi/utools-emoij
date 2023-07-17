@@ -4,14 +4,19 @@ import Emoij from './Emoij'
 interface IProps {
   children?: React.ReactNode
   emoijs: EmoijSets
-  searchRes: any
+  searchRes: SearchRes
 }
+interface EmoijRes {
+  code: Array<Array<number>>
+  desc: string
+  id: number
+}
+type SearchRes = Record<string, EmoijRes>
 
 type EmoijSets = Record<any, Array<Array<string | number>>>
 
 const EmoijList: React.FC<IProps> = ({ emoijs, searchRes }) => {
   const flag = Reflect.ownKeys(searchRes).length === 0
-  console.log(searchRes)
   return (
     <>
       {
